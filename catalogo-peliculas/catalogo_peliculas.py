@@ -9,7 +9,7 @@ def main(): #funcio principal que va a llamar a la interfas grafica...
 
     barra_menu(root)
     app = Frame(root = root)
-    root.mainloop() #despues de sto no se ejecutara nada mas respecto a la ventana grafica
+    root.mainloop() #despues de esto no se ejecutara nada mas respecto a la ventana grafica
 
 
 if __name__ == '__main__': #llamado a la funcion principal del programa
